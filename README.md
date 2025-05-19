@@ -5,7 +5,7 @@
   <div class="pricing-card">
     <div class="pricing-title">三毛机场</div>
     <div class="pricing-price">¥3.00 <span class="pricing-unit" style="color: red;">每年</span></div>
-    <a href="https://c.smjcdh.com/#/register?code=AdIdGx8O" target="_blank" class="buy-button">
+    <a href="https://gw-1.xn--ehqx7tcnnope.com/#/register?code=AdIdGx8O" target="_blank" class="buy-button">
       <i class="icon-cart"></i> 立即购买
     </a>
     
